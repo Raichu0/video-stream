@@ -81,7 +81,7 @@ root@linux~ $ python3 main.py
 
 <a href="https://t.me/shree_ram_rajya"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
 <a href="https://t.me/raichu_support"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
-<a href="https://t.me/dlwrml"><img src="https://img.shields.io/badge/Contact-Repo%20Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/jai_raja_Ram"><img src="https://img.shields.io/badge/Contact-Repo%20Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## License
 
